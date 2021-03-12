@@ -1,6 +1,6 @@
-# Tetcore Cumulus Parachain Template
+# Tetcore Medley Parachain Template
 
-A new Cumulus-based Substrate node, ready for hacking :cloud:
+A new Medley-based Tetcore node, ready for hacking :cloud:
 
 ## Upstream
 
