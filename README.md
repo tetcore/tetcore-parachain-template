@@ -1,4 +1,4 @@
-# Substrate Cumulus Parachain Template
+# Tetcore Cumulus Parachain Template
 
 A new Cumulus-based Substrate node, ready for hacking :cloud:
 
