@@ -5,7 +5,7 @@ A new Medley-based Tetcore node, ready for hacking :cloud:
 ## Upstream
 
 This project is a fork of the
-[Substrate Developer Hub Node Template](https://github.com/tetcore/tetcore-node-template).
+[Tetcore Developer Hub Node Template](https://github.com/tetcore/tetcore-node-template).
 
 ## Build & Run
 
